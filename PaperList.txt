@@ -1,0 +1,8 @@
+Parallel Refinements for Lexically Constrained Text Generation with BART
+https://aclanthology.org/2021.emnlp-main.681/
+
+Prefix-Tuning: Optimizing Continuous Prompts for Generation
+https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2101.00190
+
+Show Me How To Revise: Improving Lexically Constrained Sentence Generation with XLNet
+https://arxiv.org/abs/2109.05797
